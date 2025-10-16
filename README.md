@@ -14,7 +14,7 @@ O objetivo é demonstrar o funcionamento de um circuito simples com **Arduino e 
 ---
 
 ### 🔌 Arduino Ligado
-![Arduino conectado com LED aceso](assets/arduino_led.png)
+![Arduino conectado com LED aceso](assets/arduino_led.jpg)
 
 ---
 
