@@ -19,4 +19,4 @@ O objetivo é demonstrar o funcionamento de um circuito simples com **Arduino e 
 ---
 
 ### 🎥 Vídeo
-[Assista ao vídeo da demonstração](https://link-do-video.com)
+[Assista ao vídeo da demonstração](https://drive.google.com/file/d/1TGxzHJ7pJhpqDY0Qc0znkuLfX9DIVqUk/view?usp=sharing)
